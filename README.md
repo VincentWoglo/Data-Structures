@@ -9,3 +9,6 @@ This is my data structures practice folder. I push the data structures that I've
 |Recursion   |✅            |
 |Stack       |✅            |
 |Queue       |❌            |
+
+### **To Download This Repository**
+> Git Pull url
