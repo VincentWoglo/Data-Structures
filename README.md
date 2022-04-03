@@ -11,4 +11,6 @@ This is my data structures practice folder. I push the data structures that I've
 |Queue       |❌            |
 
 ### **To Download This Repository**
-> Git Pull url
+```
+Git Pull url
+```
