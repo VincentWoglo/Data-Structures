@@ -5,3 +5,4 @@ This is my data structures practice folder. I push the data structures that I've
 |------------|
 |Linked Lists|
 |Arrays      |
+|MergeSort   |
