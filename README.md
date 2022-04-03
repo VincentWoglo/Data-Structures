@@ -12,5 +12,5 @@ This is my data structures practice folder. I push the data structures that I've
 
 ### **To Download This Repository**
 ```
-Git Pull url
+*** Git Pull https://github.com/VincentWoglo/Data-Structures.git ***
 ```
