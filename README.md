@@ -3,8 +3,9 @@ This is my data structures practice folder. I push the data structures that I've
 
 |Covered     |Completed |  
 |------------|----------|
-|Linked Lists|✔️        |
-|Arrays      |✔️        |
-|MergeSort   |✔️        |
-|Recursion   |✔️        |
-|Stack       |✔️        |
+|Linked Lists|✅        |
+|Arrays      |✅        |
+|MergeSort   |✅        |
+|Recursion   |✅        |
+|Stack       |✅        |
+|Queue       |❌        |
